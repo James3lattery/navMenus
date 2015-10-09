@@ -58,3 +58,11 @@ body {
     vertical-align: middle;
     padding-left: 3px;
 }
+/* END NAV */
+.contentBox {
+    padding: 0;
+    margin: 0;
+    background-color: darkcyan;
+    width: auto;
+    height: 200px;
+}
